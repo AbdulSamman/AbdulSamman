@@ -9,8 +9,6 @@
  <a href="https://socket.io" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="express" width="40" height="40"/> </a></p>
 
 
-
-
  <h3 align="left">Database:</h3>
  <p>
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
@@ -18,6 +16,11 @@
 <h3 align="left">Testing:</h3>
 <p>
  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
+ <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a></p>
+
+<h3 align="left">Hosting:</h3>
+<p>
+ <a href="https://app.netlify.com/teams/abdulsamman/overview?_ga=2.227815199.326880068.1682450829-329551815.1667999123" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/netlify/netlify-icon.svg" alt="jest" width="40" height="40"/> </a>
  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a></p>
 
 <hr>
