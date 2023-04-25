@@ -1,6 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/AbdulSamman/AbdulSamman/main/wavingHand.gif" width="30px">, I'm Abdulrazak</h1>
 
-<p align="center"> ![](https://komarev.com/ghpvc/?username=AbdulSamman&color=brightgreen) </p> 
+<p align="center">
+ ![](https://komarev.com/ghpvc/?username=AbdulSamman&color=brightgreen)
+</p> 
 
 <h3 align="center">I'm a creative technologist and designer specializing in developing engaging user interfaces and web applications. I love learning new technologies and frameworks and incorporating them into my work to achieve the best outcome</h3>
 
