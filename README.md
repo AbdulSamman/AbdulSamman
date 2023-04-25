@@ -1,6 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/your-gif-id/giphy.gif" width="30px">, I'm Abdulrazak</h1>
-
-
+<h1 align="center">Hi <img src="[https://media.giphy.com/media/your-gif-id/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fwave-emoji-gifs&psig=AOvVaw3KQKr23FNc6qJbRxUg0sTa&ust=1682499694295000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLDz5fbVxP4CFQAAAAAdAAAAABAS)" width="30px">, I'm Abdulrazak</h1>
 <h3 align="center">I'm a creative technologist and designer specializing in developing engaging user interfaces and web applications. I love learning new technologies and frameworks and incorporating them into my work to achieve the best outcome</h3>
 
 
