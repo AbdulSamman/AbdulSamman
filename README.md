@@ -25,10 +25,10 @@
 
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulSamman&show_icons=true&theme=blue-green&bg_color=0D1117)]([https://github.com/AbdulSamman/github-readme](https://github.com/AbdulSamman/AbdulSamman))
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulSamman&show_icons=true&theme=blue-green&bg_color=0D1117)]([https://github.com/AbdulSamman/github-readme](https://github.com/AbdulSamman/AbdulSamman))
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulSamman&layout=compact&bg_color=0D1117&theme=blue-green&hide=javascript)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulSamman&layout=compact&bg_color=0D1117&theme=blue-green&hide=javascript)
 
 
 
