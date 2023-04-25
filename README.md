@@ -20,7 +20,7 @@
 
 <h3 align="left">Hosting:</h3>
 <p>
- <a href="https://app.netlify.com/teams/abdulsamman/overview?_ga=2.227815199.326880068.1682450829-329551815.1667999123" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/netlify/netlify-icon.svg" alt="jest" width="40" height="40"/> </a>
+ <a href="https://app.netlify.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/netlify/netlify-icon.svg" alt="jest" width="40" height="40"/> </a>
  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a></p>
 
 <hr>
