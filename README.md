@@ -1,4 +1,4 @@
-<h1 align="center">Hi [https://github.com/AbdulSamman/AbdulSamman/blob/main/wavingHand.gif](https://gifdb.com/images/thumbnail/waving-hand-emoticon-bye-iv3dmo7t5vdlvr8m.gif), I'm Abdulrazak</h1>
+<h1 align="center">Hi 👋, I'm Abdulrazak</h1>
 <h3 align="center">I'm a creative technologist and designer specializing in developing engaging user interfaces and web applications. I love learning new technologies and frameworks and incorporating them into my work to achieve the best outcome</h3>
 
 
