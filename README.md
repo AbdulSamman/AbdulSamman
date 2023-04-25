@@ -31,7 +31,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulSamman&layout=compact&bg_color=0D1117&theme=blue-green&)](https://github.com/AbdulSamman/AbdulSamman)
 
 
-https://api.github.com/repos/YOUR-USERNAME/REPOSITORY-NAME/languages
+https://api.github.com/repos/YOUR-USERNAME/AbdulSamman/languages
 
 
 <hr>
