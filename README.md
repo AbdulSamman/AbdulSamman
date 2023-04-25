@@ -21,7 +21,9 @@
  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a></p>
 
 <hr>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulSamman&show_icons=true&theme=dark&bg_color=0D1117)]([https://github.com/AbdulSamman/github-readme](https://github.com/AbdulSamman/AbdulSamman))
+
 <hr>
 <h3 align="left">Connect with me:</h3>
 
