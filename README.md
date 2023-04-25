@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/AbdulSamman/AbdulSamman/main/wavingHand.gif" width="30px">, I'm Abdulrazak</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdulSamman&color=brightgreen&style=plastic" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AbdulSamman&color=brightgreen&style=plastic" alt="Profile views" width="200" height="50"/>
 </p>
 
 
