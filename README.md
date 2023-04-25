@@ -31,6 +31,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulSamman&layout=compact&bg_color=0D1117&theme=blue-green&)]
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AbdulSamman&show_icons=true&locale=en&layout=compact&hide=python)
+
 <hr>
 <h3 align="left">Connect with me:</h3>
 
