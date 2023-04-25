@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdulrazak</h1>
+<h1 align="center">Hi :wave:, I'm Abdulrazak</h1>
 <h3 align="center">I'm a creative technologist and designer specializing in developing engaging user interfaces and web applications. I love learning new technologies and frameworks and incorporating them into my work to achieve the best outcome</h3>
 
 
