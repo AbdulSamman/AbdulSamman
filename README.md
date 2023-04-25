@@ -1,5 +1,4 @@
-<h1 align="center">Hi
-![wavinghand!](wavingHand.gif) , I'm Abdulrazak</h1>
+<h1 align="center">Hi (![image](https://user-images.githubusercontent.com/97021586/234232318-152d01d2-beac-40e0-b339-af5188072df5.png)) , I'm Abdulrazak</h1>
 <h3 align="center">I'm a creative technologist and designer specializing in developing engaging user interfaces and web applications. I love learning new technologies and frameworks and incorporating them into my work to achieve the best outcome</h3>
 
 
