@@ -21,7 +21,7 @@
 <h3 align="left">Hosting:</h3>
 <p>
 <a href="https://app.netlify.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg" alt="netlify" width="40" height="40"/> </a>
- <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a></p>
+ <a href="https://vercel.com" target="_blank" rel="noreferrer"> <img src="https://logovtor.com/wp-content/uploads/2020/10/vercel-inc-logo-vector.png" alt="vercel" width="40" height="40"/> </a></p>
 
 <hr>
 
