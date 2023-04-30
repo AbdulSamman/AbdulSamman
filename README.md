@@ -24,7 +24,7 @@
 
 <h3 align="left">Testing:</h3>
 <p>
- <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="80" height="80"/> </a>
+ <a href="https://vitest.dev" target="_blank" rel="noreferrer"> <img src="https://vitest.dev/logo-shadow.svg" alt="jest" width="80" height="80"/> </a>
  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="80" height="80"/> </a></p>
 
 <h3 align="left">Hosting:</h3>
