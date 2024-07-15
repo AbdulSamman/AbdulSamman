@@ -9,7 +9,7 @@
 <div align="center">
  🔭️ I'm currently working on **a chat app**
  ☄️ I'm currently learning **Redis, Tailwind, React Native Expo**
- 💬️ Ask me about **Node.js, React, NextJs, Strapi, MongoDb... or anything[here](https://github.com/AbdulSamman/AbdulSamman/issues)
+ 💬️ Ask me about **Node.js, React, NextJs, Strapi, MongoDb... or anything [here](https://github.com/AbdulSamman/AbdulSamman/issues)**
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
