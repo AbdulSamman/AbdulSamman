@@ -22,11 +22,13 @@
   <a href="mailto:sammanab@outlook.de" target="_blank" >
    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&decoration=false&marginRight=5&logoColor=red"/>
   </a>
-
+&ensp;
+ &ensp;
   <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank" >
    <img src="https://img.shields.io/badge/linkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
+&ensp;
+ &ensp;
   <a href="https://portfolioas.vercel.app/" target="_blank">
    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
   </a>
