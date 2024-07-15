@@ -10,7 +10,7 @@
 
 [![Typing SVG]
 <h1 align="center">
- (https://readme-typing-svg.demolab.com/?lines=Hi+There!+👋️+I'm+Abdulrazak+Samman!;Second+line+of+text)]
+ (https://readme-typing-svg.demolab.com/?lines=Hi+There!+👋️+;I'm+Abdulrazak+Samman!)]
  (https://git.io/typing-svg)
 </h1>
 
