@@ -7,6 +7,7 @@
 <h3 align="center">A dedicated and experienced software developer </h3>
 
 <div align="center">
+ 
  🔭️ I'm currently working on **a chat app** 
  
  ☄️ I'm currently learning **Redis, Tailwind, React Native Expo** 
