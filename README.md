@@ -13,6 +13,9 @@
  ☄️ I'm currently learning **Redis, Tailwind, React Native Expo** 
  
  💬️ Ask me about **Node.js, React, NextJs, Strapi, MongoDb... or anything [here](https://github.com/AbdulSamman/AbdulSamman/issues)** 
+
+ ⚡️ Fun fact **Game of Thrones Nights Watch cloaks are made from Ikea rugs**
+ 
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
