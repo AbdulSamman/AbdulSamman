@@ -37,7 +37,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
---!<div align="center">
+<!-- <div align="center">
 <div align="center">
 <div align="center">
 <p><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80"/> </a></p>
