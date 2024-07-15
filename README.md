@@ -1,11 +1,9 @@
  
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AbdulSamman.AbdulSamman"/>
  
-
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Righteous&center=true&width=1000&height=100&size=40&lines=Hi+There!+👋️;I'm+Abdulrazak+Samman!)](https://git.io/typing-svg)
 
+</hr>
 <h3 align="center">A dedicated and experienced software developer </h3>
 
 
