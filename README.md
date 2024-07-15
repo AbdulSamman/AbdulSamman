@@ -5,7 +5,7 @@
 <h1 align="center">
  Hi 
  <a href="https://git.io/typing-svg>
- <img src="https://raw.githubusercontent.com/AbdulSamman/AbdulSamman/main/wavingHand.gif" width="30px">
+ <img src="https://readme-typing-svg.herokuapp.com/" font=Righteous&size=35&center=true>
   
  </a>
  , I'm Abdulrazak</h1>
