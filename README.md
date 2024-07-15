@@ -12,7 +12,7 @@
  
  ☄️ I'm currently learning **NextJs, Strapi... and more** 
  
- 💬️ Ask me about **Node.js, React, NextJs, Strapi, MongoDb... or anything [here](https://github.com/AbdulSamman/AbdulSamman/issues)** 
+ 💬️ Ask me about **Node.js, React, NextJs, Strapi, MongoDB, TypeScript, JavaScript... or anything [here](https://github.com/AbdulSamman/AbdulSamman/issues)** 
 
  🌍️ I can **🇸🇦️ arabic, 🇬🇧️ english, 🇩🇪️ german**
  
