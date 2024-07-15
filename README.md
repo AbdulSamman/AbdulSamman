@@ -19,17 +19,17 @@
 </div>
 
 <div align="center">
-<a href="mailto:sammanab@outlook.de"  target="_blank>
-<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
-</a>
+  <a href="mailto:sammanab@outlook.de" target="_blank">
+   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
+  </a>
 
-<a href="https://in.linkedin.com/in/abdulrazak-samman" target="_blank">
-<img src="https://img.shields.io/badge/linkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://in.linkedin.com/in/abdulrazak-samman" target="_blank">
+   <img src="https://img.shields.io/badge/linkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="mailto:sammanab@outlook.de"  target="_blank>
-<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
-</a>
+  <a href="mailto:sammanab@outlook.de" target="_blank">
+   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
+  </a>
  
 </div>
 
