@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Righteous&center=true&width=1000&height=100&size=40&lines=Hi+There!+👋️;I'm+Abdulrazak+Samman!)](https://git.io/typing-svg)
 
-<h3 align="center">I'm a creative technologist and designer specializing in developing engaging user interfaces and web applications. I love learning new technologies and frameworks and incorporating them into my work to achieve the best outcome</h3>
+<h3 align="center">A dedicated and experienced software developer </h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
