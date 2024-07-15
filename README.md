@@ -18,7 +18,7 @@
  
 </div>
 
-<div align="center" underline="none">
+<div align="center" style="text-decoration: none;">
   <a href="mailto:sammanab@outlook.de" target="_blank">
    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
