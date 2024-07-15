@@ -24,11 +24,11 @@
   </a>
 
   <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
-   <img src="https://img.shields.io/badge/linkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+   <img src="https://img.shields.io/badge/linkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:sammanab@outlook.de" target="_blank">
-   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
+  <a href="[mailto:sammanab@outlook.de](https://portfolioas.vercel.app/)" target="_blank">
+   <img src="https://img.shields.io/badge/portfolio-0099C5?style=for-the-badge&logo=portfolio&logoColor=blue"/>
   </a>
  
 </div>
