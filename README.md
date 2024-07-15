@@ -10,7 +10,7 @@
  
  🔭️ I'm currently working on **a chat app** 
  
- ☄️ I'm currently learning **Redis, Tailwind, React Native Expo** 
+ ☄️ I'm currently learning **NextJs, Strapi... and more** 
  
  💬️ Ask me about **Node.js, React, NextJs, Strapi, MongoDb... or anything [here](https://github.com/AbdulSamman/AbdulSamman/issues)** 
 
