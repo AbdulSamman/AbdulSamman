@@ -27,8 +27,8 @@
    <img src="https://img.shields.io/badge/linkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="[mailto:sammanab@outlook.de](https://portfolioas.vercel.app/)" target="_blank">
-   <img src="https://img.shields.io/badge/portfolio-0099C5?style=for-the-badge&logo=portfolio&logoColor=blue"/>
+  <a href="https://portfolioas.vercel.app/" target="_blank">
+   <img src="https://img.shields.io/badge/portfolio-0000c5?style=for-the-badge&logo=portfolio&logoColor=blue"/>
   </a>
  
 </div>
