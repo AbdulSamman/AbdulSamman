@@ -22,6 +22,14 @@
 <a href="mailto:sammanab@outlook.de">
 <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/>
 </a>
+
+<a href="[mailto:sammanab@outlook.de](https://www.linkedin.com/in/abdulrazak-samman-175b2718b/)">
+<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/>
+</a>
+
+<a href="mailto:sammanab@outlook.de">
+<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/>
+</a>
  
 </div>
 
