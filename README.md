@@ -20,7 +20,7 @@
 
 <div align="center" >
   <a href="mailto:sammanab@outlook.de" target="_blank" >
-   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&decoration=false&logoColor=red"/>
+   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&decoration=false&marginRight=5&logoColor=red"/>
   </a>
 
   <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank" >
