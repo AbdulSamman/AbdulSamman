@@ -1,5 +1,5 @@
  
-  <img align="right" src="https://vistor-badge.laobi.icu/badge?page_id=AbdulSamman.AbdulSamman" alt="vistors" width="100" height="50"/>
+  <img align="right" src="https://vistor-badge.laobi.icu/badge?page_id=AbdulSamman.AbdulSamman"/>
  
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/AbdulSamman/AbdulSamman/main/wavingHand.gif" width="30px">, I'm Abdulrazak</h1>
