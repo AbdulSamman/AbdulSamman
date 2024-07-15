@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/>
 </a>
 
-<a href="[https://in.linkedin.com/in/abdulrazak-samman]" target="_blank">
+<a href="https://in.linkedin.com/in/abdulrazak-samman" target="_blank">
 <img src="https://img.shields.io/badge/linkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
 </a>
 
