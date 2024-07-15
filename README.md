@@ -2,13 +2,9 @@
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AbdulSamman.AbdulSamman"/>
  
 
-<!-- <section align="center">
-  <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com/?  font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋️;+I'm+Abdulrazak+Samman!;" />
- </a>
- </section>-->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&width=1000&size=50&lines=Hi+There!+👋️;I'm+Abdulrazak+Samman!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?center=true&width=1000&height=100&size=50&lines=Hi+There!+👋️;I'm+Abdulrazak+Samman!)](https://git.io/typing-svg)
 
 <h3 align="center">I'm a creative technologist and designer specializing in developing engaging user interfaces and web applications. I love learning new technologies and frameworks and incorporating them into my work to achieve the best outcome</h3>
 
