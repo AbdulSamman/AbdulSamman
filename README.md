@@ -7,8 +7,11 @@
    <img src="https://readme-typing-svg.herokuapp.com/?  font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋️;+I'm+Abdulrazak+Samman!;" />
  </a>
  </section>-->
+
+[![Typing SVG]
 <h1 align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There!+👋️+I'm+Abdulrazak+Samman!;Second+line+of+text)](https://git.io/typing-svg)
+ (https://readme-typing-svg.demolab.com/?lines=Hi+There!+👋️+I'm+Abdulrazak+Samman!;Second+line+of+text)]
+ (https://git.io/typing-svg)
 </h1>
 
 <h3 align="center">I'm a creative technologist and designer specializing in developing engaging user interfaces and web applications. I love learning new technologies and frameworks and incorporating them into my work to achieve the best outcome</h3>
