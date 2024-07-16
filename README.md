@@ -1,10 +1,17 @@
 
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AbdulSamman.AbdulSamman"/>
+<div align="right" >
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Righteous&center=true&width=1000&height=100&size=40&lines=Hi+There!+👋️;I'm+Abdulrazak+Samman!)](https://git.io/typing-svg)
+<img src="https://komarev.com/ghpvc/?username=AbdulSamman&style=flat-square&color=yellow" alt="" width="100px" height="20px"/>
+</div>
+
+&ensp;
+&ensp;
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Righteous&center=true&width=1000&height=100&size=50&lines=Hi+There!+👋️;I'm+Abdulrazak+Samman!)](https://git.io/typing-svg)
 
 <hr/>
-<h2 align="center">A dedicated and experienced software developer </h2>
+
+<h3 align="center">A dedicated and experienced software  developer </h3>
 
 <div align="center">
 
