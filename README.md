@@ -40,31 +40,49 @@
 
 <div align="center">
 
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>    </a>
-
-
+  <p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  </p>
+  <p>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+   &ensp;
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-
+  </p>
   <p>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+   &ensp;
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+    &ensp;
   <a href="https://https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354521/vitejs.svg" alt="express" width="40" height="40" /> </a>
   </p>
-  <p style="display: flex; justify-content: center; align-items: center; text-decuration:none; gap:1rem"><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-1-2.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+  <p><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-1-2.svg" alt="tailwind" width="40" height="40"/> </a>
+   &ensp;
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+   &ensp;
+    <a href="https://sass-lang.com" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+     &ensp;
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a></p>
-  <p><a href="https://expressjs.com" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+  <p>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+   &ensp;
  <a href="https://socket.io" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="express" width="40" height="40"/> </a>
+  &ensp;
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  &ensp;
  <a href="https://vitest.dev" target="_blank" rel="noreferrer"> <img src="https://vitest.dev/logo-shadow.svg" alt="jest" width="40" height="40"/> </a>
+  &ensp;
  <a href="https://www.cypress.io" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
  </p>
-  <p style="display: flex; justify-content: center; align-items: center; text-decuration:none; gap:1rem"><a href="https://app.netlify.com" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg" alt="netlify" width="40" height="40"/> </a>
- <a href="https://vercel.com" target="_blank" rel="noreferrer" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vercel_logo_black.svg/2560px-Vercel_logo_black.svg.png" alt="vercel" width="40" height="40"/> </a>
+  <p ><a href="https://app.netlify.com" target="_blank" rel="noreferrer" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Netlify_logo_%282%29.svg/1200px-Netlify_logo_%282%29.svg.png" alt="netlify" width="50" height="40"/> </a>
+  &ensp;
+ <a href="https://vercel.com" target="_blank" rel="noreferrer" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vercel_logo_black.svg/2560px-Vercel_logo_black.svg.png" alt="vercel" width="50" height="40"/> </a>
+ &ensp;
   <a href="https://nextjs.org" target="_blank" rel="noreferrer" > <img src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png" alt="nextjs" width="40" height="40"/> </a>
+  &ensp;
   <a href="https://strapi.com" target="_blank" rel="noreferrer" > <img src="https://assets-global.website-files.com/5f3e2a114c63905e97c3804b/65be792bfca0ab56c8594c5c_Strapi-Logo.png" alt="strapi" width="40" height="40"/> </a>
+  &ensp;
    <a href="https://cloudinary.com" target="_blank" rel="noreferrer" > <img src="https://res.cloudinary.com/demo/image/upload/e_shadow:90,x_15,y_15/cloudinary_icon.png" alt="cloudinary" width="40" height="40"/> </a>
+   &ensp;
     <a href="https://hetzner.com" target="_blank" rel="noreferrer" > <img src="https://static-00.iconduck.com/assets.00/hetzner-icon-512x512-k29kzliu.png" alt="hetzner" width="40" height="40"/> </a>
  </p>
 </div>
