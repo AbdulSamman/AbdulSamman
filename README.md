@@ -44,14 +44,13 @@
 
   [<img src='https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png' alt='github' height='60'>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-<!--
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" > <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png" alt="javascript" width="40" height="40"/></a>
-  -->
   </p>
   <p>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" alt="typescript" width="40" height="40"/> </a>
+
+   [<img src='https://cdn-icons-png.flaticon.com/512/919/919832.png' alt='github' height='50'>](https://www.typescriptlang.org/)
    &ensp;
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+   [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg' alt='github' height='50'>](https://nodejs.org")
+
   </p>
   <p>
    <a href="https://nextjs.org" target="_blank" rel="noreferrer" > <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" alt="nextjs" width="40" height="40"/> </a>
