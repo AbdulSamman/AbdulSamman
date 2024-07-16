@@ -20,7 +20,7 @@
 
 <div align="center" >
   <a href="mailto:sammanab@outlook.de" target="_blank" style="text-decoration: none;" >
-   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&decoration=false&marginRight=5&logoColor=red"/>
+   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&textDecoration=none&marginRight=5&logoColor=white&labelColor=red" alt="Gmail Badge"/>
   </a>
 &ensp;
  &ensp;
