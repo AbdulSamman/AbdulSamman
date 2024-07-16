@@ -34,7 +34,7 @@
   [<img src='https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white' alt='github' height='30' width="130">](https://portfolioas.vercel.app/)
 
 </div>
-
+<hr/>
 <h3 align="center">Languages and Tools:
 </h3>
 
@@ -61,6 +61,7 @@
    [<img src='https://www.svgrepo.com/show/354521/vitejs.svg' alt='github' height='50'>](https://https://vitejs.dev/)
 
   </p>
+
   <p>
 
   [<img src='https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg' alt='github' height='50' width="90">](https://tailwindcss.com/)
@@ -71,6 +72,8 @@
   [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg' alt='github' height='50'>](https://www.w3schools.com/css/)
 
   </p>
+
+
   <p>
 
   [<img src='https://images.credly.com/images/1c2c86e1-16ce-4e4d-a425-d1ac96bb026d/express.png' alt='github' height='50'>](https://expressjs.com)
@@ -131,5 +134,3 @@
 
 </p>
 </div>
-
-
