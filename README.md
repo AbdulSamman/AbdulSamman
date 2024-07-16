@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Righteous&center=true&width=1000&height=100&size=40&lines=Hi+There!+👋️;I'm+Abdulrazak+Samman!)](https://git.io/typing-svg)
 
 <hr/>
-<h3 align="center">A dedicated and experienced software developer </h3>
+<h2 align="center">A dedicated and experienced software developer </h2>
 
 <div align="center">
 
@@ -97,7 +97,7 @@
 
 <div align="center">
 <h3>❇️ My Contributions ❇️</h3>
-  <img src='https://raw.githubusercontent.com/AbdulSamman/AbdulSamman/output/github-contribution-grid-snake.svg' alt='snake eating my contribution' height='120'/>
+  <img src='https://raw.githubusercontent.com/AbdulSamman/AbdulSamman/output/github-contribution-grid-snake.svg' alt='snake eating my contribution' height='140'/>
 </div>
 
 &ensp;
