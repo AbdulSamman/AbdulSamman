@@ -14,25 +14,18 @@
 
  💬️ Ask me about **Node.js, React, NextJs, Strapi, MongoDB, TypeScript, JavaScript... or anything [here](https://github.com/AbdulSamman/AbdulSamman/issues)**
 
- 🌍️ I can **🇸🇦️ arabic, 🇬🇧️ english, 🇩🇪️ german**
+ 🌍️ I speak  &ensp; **🇸🇦️ arabic  &ensp; 🇬🇧️ english  &ensp; 🇩🇪️ german**
 
 </div>
 
 <div align="center" >
 
-[<img src='https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red' alt='github' height='30'>](mailto:sammanab@outlook.de)
+[<img src='https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red' alt='github' height='30' width="130">](mailto:sammanab@outlook.de)
+ &ensp;
+ [<img src='https://img.shields.io/badge/linkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='github' height='30' width="130">](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+ &ensp;
+  [<img src='https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white' alt='github' height='30' width="130">](https://portfolioas.vercel.app/)
 
-  <a href="mailto:sammanab@outlook.de" target="_blank" >
-   <img src="" alt="Gmail Badge"/>
-  </a>
- &ensp;
-  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank" >
-   <img src="https://img.shields.io/badge/linkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
- &ensp;
-  <a href="https://portfolioas.vercel.app/" target="_blank" >
-   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
-  </a>
 </div>
 
 <h3 align="center">Languages and Tools:
@@ -88,37 +81,41 @@
 
  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Netlify_logo_%282%29.svg/1200px-Netlify_logo_%282%29.svg.png' alt='github' height='50' width="80">](https://app.netlify.com)
  &ensp;
-[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vercel_logo_black.svg/2560px-Vercel_logo_black.svg.png' alt='github' height='50' width="70">](https://vercel.com)
-[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg' alt='github' height='60'>](https://www.w3.org/html/)
-&ensp;
-[<img src='https://assets-global.website-files.com/5f3e2a114c63905e97c3804b/65be792bfca0ab56c8594c5c_Strapi-Logo.png' alt='github' height='50'>](https://strapi.com)
-&ensp;
-[<img src='https://res.cloudinary.com/demo/image/upload/e_shadow:90,x_15,y_15/cloudinary_icon.png' alt='github' height='50'>](https://cloudinary.com)
-&ensp;
-[<img src='https://static-00.iconduck.com/assets.00/hetzner-icon-512x512-k29kzliu.png' alt='github' height='50'>](https://hetzner.com)
+ [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vercel_logo_black.svg/2560px-Vercel_logo_black.svg.png' alt='github' height='50' width="70">](https://vercel.com)
+ [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg' alt='github' height='60'>](https://www.w3.org/html/)
+ &ensp;
+ [<img src='https://assets-global.website-files.com/5f3e2a114c63905e97c3804b/65be792bfca0ab56c8594c5c_Strapi-Logo.png' alt='github' height='50'>](https://strapi.com)
+ &ensp;
+ [<img src='https://res.cloudinary.com/demo/image/upload/e_shadow:90,x_15,y_15/cloudinary_icon.png' alt='github' height='50'>](https://cloudinary.com)
+ &ensp;
+ [<img src='https://static-00.iconduck.com/assets.00/hetzner-icon-512x512-k29kzliu.png' alt='github' height='50'>](https://hetzner.com)
 
  </p>
 </div>
 <hr>
+&ensp;
+<div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulSamman&show_icons=true&theme=blue-green&bg_color=0D1117)]([https://github.com/AbdulSamman/github-readme](https://github.com/AbdulSamman/AbdulSamman))
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulSamman&hide_progress=true&bg_color=0D1117&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-
+</div>
 
 <hr>
+<div align="center">
 <h3 align="center">Connect with me:</h3>
+&ensp;
 <p align="center">
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='60'>](https://github.com/AbdulSamman)
-&nbsp;&nbsp;&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='60'>](https://www.linkedin.com/in/abdulrazak-samman-175b2718b)
-
-&nbsp;&nbsp;&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='60'>](https://portfolioas.vercel.app/)
+[<img src='https://cdn.worldvectorlogo.com/logos/github-icon-2.svg' alt='github' height='60'>](https://github.com/AbdulSamman)
+&ensp;&ensp;&ensp;&ensp;
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png' alt='linkedin' height='60'>](https://www.linkedin.com/in/abdulrazak-samman-175b2718b)
+&ensp;&ensp;&ensp;&ensp;
+[<img src='https://cdn-icons-png.flaticon.com/512/5602/5602732.png' alt='website' height='60'>](https://portfolioas.vercel.app/)
 
 </p>
+</div>
 
 
