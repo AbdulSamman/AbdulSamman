@@ -58,7 +58,7 @@
 
   [<img src='https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg' alt='github' height='50' width="90">](https://tailwindcss.com/)
    &ensp;
-   [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg' alt='github' height='50'>](https://getbootstrap.com)
+   [<img src='https://cdn.iconscout.com/icon/free/png-256/free-bootstrap-6-1175203.png' alt='github' height='50'>](https://getbootstrap.com)
   &ensp;
    [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg' alt='github' height='50'>](https://sass-lang.com)
   [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg' alt='github' height='50'>](https://www.w3schools.com/css/)
@@ -66,7 +66,7 @@
   </p>
   <p>
 
-  [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg' alt='github' height='50'>](https://expressjs.com)
+  [<img src='https://images.credly.com/images/1c2c86e1-16ce-4e4d-a425-d1ac96bb026d/express.png' alt='github' height='50'>](https://expressjs.com)
   &ensp;
   [<img src='https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg' alt='github' height='50'>](https://socket.io)
   &ensp;
@@ -74,7 +74,7 @@
   &ensp;
   [<img src='https://vitest.dev/logo-shadow.svg' alt='github' height='50'>](https://vitest.dev)
   &ensp;
-  [<img src='https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg' alt='github' height='50'>](https://www.cypress.io)
+  [<img src='https://i0.wp.com/blog.nashtechglobal.com/wp-content/uploads/2024/01/cypress.png?fit=364%2C364&ssl=1' alt='github' height='50'>](https://www.cypress.io)
 
 
  </p>
@@ -96,13 +96,10 @@
 &ensp;
 
 <div align="center">
-
-  <h2>My Contributions</h2>
-
-  <img src='https://raw.githubusercontent.com/AbdulSamman/AbdulSamman/output/github-contribution-grid-snake.svg' alt='snake eating my contribution' height='50'/>
-
+<h3>❇️ My Contributions ❇️</h3>
+  <img src='https://raw.githubusercontent.com/AbdulSamman/AbdulSamman/output/github-contribution-grid-snake.svg' alt='snake eating my contribution' height='120'/>
 </div>
-<hr/>
+
 &ensp;
 <div align="center">
 
@@ -119,11 +116,11 @@
 &ensp;
 <p align="center">
 
-[<img src='https://cdn.worldvectorlogo.com/logos/github-icon-2.svg' alt='github' height='60'>](https://github.com/AbdulSamman)
+[<img src='https://cdn.worldvectorlogo.com/logos/github-icon-2.svg' alt='github' height='40'>](https://github.com/AbdulSamman)
 &ensp;&ensp;&ensp;&ensp;
-[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png' alt='linkedin' height='60'>](https://www.linkedin.com/in/abdulrazak-samman-175b2718b)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdulrazak-samman-175b2718b)
 &ensp;&ensp;&ensp;&ensp;
-[<img src='https://cdn-icons-png.flaticon.com/512/5602/5602732.png' alt='website' height='60'>](https://portfolioas.vercel.app/)
+[<img src='https://cdn-icons-png.flaticon.com/512/5602/5602732.png' alt='website' height='40'>](https://portfolioas.vercel.app/)
 
 </p>
 </div>
