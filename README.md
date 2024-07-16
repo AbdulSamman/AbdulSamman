@@ -94,6 +94,16 @@
 </div>
 <hr>
 &ensp;
+
+<div align="center">
+
+  <h2>My Contributions</h2>
+
+  <img src='https://raw.githubusercontent.com/AbdulSamman/AbdulSamman/output/github-contribution-grid-snake.svg' alt='snake eating my contribution' height='50'/>
+
+</div>
+<hr/>
+&ensp;
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulSamman&show_icons=true&theme=blue-green&bg_color=0D1117)]([https://github.com/AbdulSamman/github-readme](https://github.com/AbdulSamman/AbdulSamman))
