@@ -25,12 +25,12 @@
 &ensp;
  &ensp;
   <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank" >
-   <img src="https://img.shields.io/badge/linkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   <img src="https://img.shields.io/badge/linkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&underlines=false"/>
   </a>
 &ensp;
  &ensp;
   <a href="https://portfolioas.vercel.app/" target="_blank" >
-   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&underlines=false"/>
   </a>
 </div>
 
