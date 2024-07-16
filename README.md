@@ -19,8 +19,11 @@
 </div>
 
 <div align="center" >
+
+[<img src='https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red' alt='github' height='30'>](mailto:sammanab@outlook.de)
+
   <a href="mailto:sammanab@outlook.de" target="_blank" >
-   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red" alt="Gmail Badge"/>
+   <img src="" alt="Gmail Badge"/>
   </a>
  &ensp;
   <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank" >
